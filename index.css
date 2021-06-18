@@ -1,0 +1,15 @@
+.font_size {
+  font-size: 30px;
+  color: tomato;
+  /* background-color: yellow; */
+  /* margin: 2em; */
+  padding: 1em;
+}
+
+a:visited {
+  color: #cc0000;
+}
+
+a:link {
+  color: #999999;
+}
